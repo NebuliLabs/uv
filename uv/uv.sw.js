@@ -1,5 +1,5 @@
-importScripts("/p/ultraviolet/uv/uv.bundle.js");
-importScripts("/p/ultraviolet/uv/uv.config.js");
+importScripts("https://cdn.jsdelivr.net/gh/NebuliLabs/uv@master/uv/uv.bundle.js");
+importScripts("https://cdn.jsdelivr.net/gh/NebuliLabs/uv@master/uv/uv.config.js");
 
 class UVServiceWorker extends EventEmitter {
 	constructor(config = __uv$config) {
