@@ -1,4 +1,4 @@
-importScripts("/p/ultraviolet/uv/uv.sw.js");
+importScripts("https://cdn.jsdelivr.net/gh/NebuliLabs/uv@master/uv/uv.sw.js");
 
 const sw = new UVServiceWorker();
 
